@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Walmart products</h2>
 
-![Walmart dataset header](https://github.com/luminati-io/Walmart-dataset-samples/blob/main/walmart-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/walmart">
+   <img src="https://github.com/luminati-io/Walmart-dataset-samples/blob/main/walmart-datasets.png" alt="walmart datasets" />
+</a>
 
 A Walmart dataset sample of over 1000 products. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -37,7 +39,7 @@ dataset which includes more than <b>371,000,000 companies</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+Dataset delivery type options: <b>Email, API download, Webhook, walmart S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
@@ -45,7 +47,9 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 
 <b>[Get the full Walmart dataset](https://brightdata.com/products/datasets/walmart)</b>.
 
-![Walmart dataset visual](https://github.com/luminati-io/Walmart-dataset-samples/blob/main/walmart-datasets-image.PNG)
+<a href="https://brightdata.com/products/datasets/walmart">
+   <img src="https://github.com/luminati-io/Walmart-dataset-samples/blob/main/dataset-promotions.png" alt="walmart datasets" />
+</a>
 
 <h2>What are the Walmart datasets use cases?</h2>
 
